@@ -1,0 +1,10 @@
+февр. 22, 2025 10:20:11 AM org.apache.jasper.servlet.TldScanner scanJars
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+февр. 22, 2025 10:20:11 AM org.glassfish.jersey.message.internal.MessagingBinders$EnabledProvidersBinder bindToBinder
+WARNING: A class jakarta.activation.DataSource for a default provider MessageBodyWriter<jakarta.activation.DataSource> was not found. The provider is not available.
+февр. 22, 2025 10:20:11 AM org.glassfish.jersey.server.wadl.WadlFeature configure
+WARNING: JAX-B API not found . WADL feature is disabled.
+февр. 22, 2025 10:20:22 AM com.example.util.LogUtil log
+INFO: Added new animal: com.example.model.Animal@2e393ba
+февр. 22, 2025 10:20:30 AM com.example.util.LogUtil log
+INFO: Fetching all animals. Total count: 1

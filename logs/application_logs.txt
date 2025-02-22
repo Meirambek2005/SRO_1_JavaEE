@@ -1,0 +1,6 @@
+февр. 22, 2025 10:20:22 AM com.example.util.LogUtil log
+INFO: Added new animal: com.example.model.Animal@2e393ba
+февр. 22, 2025 10:20:30 AM com.example.util.LogUtil log
+INFO: Fetching all animals. Total count: 1
+февр. 22, 2025 11:02:17 AM com.example.util.LogUtil log
+INFO: Fetching all animals. Total count: 1
